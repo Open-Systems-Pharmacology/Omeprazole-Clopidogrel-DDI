@@ -26,4 +26,4 @@ pharmacokinetic (PBPK) model network for the prediction of CYP1A2 and CYP2C19 dr
 fluvoxamine, omeprazole, s-mephenytoin, moclobemide, tizanidine, mexiletine, ethinylestradiol, and caffeine. Pharmaceutics
 2020, 12, 1191.](https://www.mdpi.com/1999-4923/12/12/1191)
 
-[[2] Loer, H.L.H.; Türk, D.; Mantilla, J.D.G.; Selzer, D.; Lehr, T. Physiologically based pharmacokinetic (PBPK) modeling of clopidogrel and its four relevant metabolites for CYP2B6, CYP2C8, CYP2C19, and CYP3A4 drug-drug-gene interaction predictions. Pharmaceutics 2022, 14, 915.](https://www.mdpi.com/1999-4923/14/5/915)
+[[2] Loer, H.L.H.; Türk, D.; Gómez-Mantilla, J.D.; Selzer, D.; Lehr, T. Physiologically based pharmacokinetic (PBPK) modeling of clopidogrel and its four relevant metabolites for CYP2B6, CYP2C8, CYP2C19, and CYP3A4 drug-drug-gene interaction predictions. Pharmaceutics 2022, 14, 915.](https://www.mdpi.com/1999-4923/14/5/915)
